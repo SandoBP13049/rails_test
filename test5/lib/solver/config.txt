@@ -1,0 +1,16 @@
+./lib/solver/dic/unidic.csv
+./lib/solver/dic/matrix.bin
+./lib/solver/dic/unidic_da_saved.txt
+./lib/solver/dic/unidic_da_rev_saved.txt
+
+絶対パス、また�Eカレントディレクトリからの相対パス
+1行目:辞書
+2行目:連接コスト行�E
+3行目:保存されたDoubleArray
+4行目:保存された送E��き用DoubleArray
+
+
+../ise2_dic_sorted.txt
+../unidic100.txt
+../ise2.csv
+../dic/unidic.csv
